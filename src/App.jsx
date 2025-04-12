@@ -1,8 +1,12 @@
-import ColorPicker from './colorPicker.jsx'
+import Picker from './Picker.jsx'
+// import './index.css'
 
 function App(){
 return(
-  <ColorPicker/>
+  <>
+  <Picker/>
+  </>
+  
 )
 }
 
